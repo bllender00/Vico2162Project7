@@ -1,3 +1,21 @@
 .card-header {
     background-color: mediumaquamarine;
 }
+
+.nav-pills .nav-link{
+    color: white;
+}
+
+.nav-pills .nav-link.active {
+    background-color: lightgreen;
+    color: darkcyan;
+}
+
+h5 {
+    color: darkcyan;
+}
+
+.email {
+    color: lightseagreen;
+    text-decoration: underline;
+}
